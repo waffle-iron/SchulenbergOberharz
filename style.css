@@ -12,3 +12,9 @@ well {
 .thumbnail {
     width: 100%;
 }
+
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* Ratio 16:9 ( 100%/16*9 = 56.25% ) */
+}
