@@ -1,1 +1,1 @@
-
+script: - bundle exec htmlproofer https://garritfra.github.io/SchulenbergOberharz/index.html
